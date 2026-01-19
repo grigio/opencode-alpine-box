@@ -1,0 +1,1 @@
+docker run --rm -ti -v ./data:/data --workdir /data --entrypoint sh ghcr.io/anomalyco/opencode:latest
